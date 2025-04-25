@@ -1,6 +1,6 @@
 # HYPERDOC_Database_code
 
-## HYPERDOC - HYPERspectral database of historical DOCuments and mock-ups from 400 to 1700 nm
+## Hyperspectral dataset of historical documents and mock-ups from 400 to 1700 nm (HYPERDOC)
 
 The **HYPERDOC database** is a hyperspectral imaging dataset of historical documents and mock-ups, designed to facilitate research in material identification in the cultural heritage domain. The database contains both mock-ups of historical inks on various supports, including some artificially aged, and historical documents from the 15th to 17th centuries. Hyperspectral reflectance images were acquired in the VNIR (400-1000 nm) and SWIR (900-1700 nm) ranges and were spatially registered. Small regions of interest, referred to as 'minicubes', were extracted from the full document images, and pixel-level ground truth (GT) material annotations were performed. False-color RGB images and extensive metadata were included in both the full document and minicube captures. The database is publicly available to promote interdisciplinary collaboration and advance the use of hyperspectral imaging in the conservation field.
 
